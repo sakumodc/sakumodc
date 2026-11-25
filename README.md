@@ -1,25 +1,21 @@
 <div align="center">
 
-# Sakumo
+# 💫 Sakumo (`Sakumodc`)
 
-**AI Automation Engineer • Autonomous Agent Architect • Local-First AI & Pipeline Builder**
+**AI Automation Engineer • Autonomous Agent Architect • Programmatic Media & Homelab Builder**
 
-*Focused on Multi-Agent Orchestration, Model Context Protocol (MCP), Programmatic Media AI & 24/7 Self-Hosted Infrastructure*
+*Engineering Self-Operating AI Workflows, Model Context Protocol (MCP) Systems, Hybrid LLM Pipelines & 24/7 Local Infrastructure*
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sakumo_777)
 [![GitHub](https://img.shields.io/badge/GitHub-Sakumodc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakumodc)
-[![TikTok](https://img.shields.io/badge/TikTok-Sakumo-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@YOUR_TIKTOK)
-[![YouTube](https://img.shields.io/badge/YouTube-Sakumo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE)
-[![Instagram](https://img.shields.io/badge/Instagram-Sakumo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Discord](https://img.shields.io/badge/Discord-Sakumo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
 ---
 
-## About
+# 💫 About Me:
 
-I build autonomous AI agent architectures, hybrid cloud–local LLM workflows, and programmatic content pipelines engineered to run continuously without manual bottlenecks. My primary interest lies in turning raw data, long-form media, and repetitive engineering tasks into self-operating systems powered by tool-calling LLMs, MCP connectors, and dedicated homelab nodes.
+I'm **Sakumo** (`Sakumodc`) — I build AI workflows and automation systems so I don't have to do the same task twice.<br><br>Most people treat AI like a chat box; I treat it like an execution engine. My focus is wiring LLMs into local tools, knowledge vaults, and background servers so the heavy lifting runs on its own. Right now, I spend most of my time building autonomous agents, experimenting with Model Context Protocol (MCP), automating video clipping pipelines, and setting up a dedicated 24/7 homelab node to keep heavy workloads off my main rig.
 
 An AI model is only useful when wired into a deterministic system—complete with structured memory, tool execution, error handling, and isolated compute:
 
